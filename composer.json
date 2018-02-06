@@ -9,12 +9,6 @@
             "email": "soullivaneuh@gmail.com"
         }
     ],
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/akorolyov/slack"
-        }
-    ],
     "require": {
         "php": "^7.1",
         "akorolyov/slack": "dev-master",
