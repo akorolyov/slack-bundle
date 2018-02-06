@@ -11,7 +11,7 @@
     ],
     "require": {
         "php": "^7.1",
-        "akorolyov/slack": "master-dev",
+        "akorolyov/slack": "dev-master",
         "php-http/httplug-bundle": "^1.8",
         "symfony/http-kernel": "^3.4 || ^4.0"
     },
